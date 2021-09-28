@@ -11,8 +11,6 @@ _got more than 0 on data visualization assessment_
 1. Microsoft Excel
 1. **Tableau Public**
 1. *Sublime text editor*
-  |  1. __list item__
-  |  2. **_list item_**
 
 Grade | Distribution
 -------------| -------------
@@ -29,7 +27,7 @@ Grade | Distribution
 
 ## Final project details:
 * a story btwn 1k and 2k words based on a dataset
-  | * with at least 2 data visualizations
+* with at least 2 data visualizations
 * due 9am Nov 23
 * a fellow student will interview you abt the piece during the second-to-last class
 * should answer an interesting question using data
