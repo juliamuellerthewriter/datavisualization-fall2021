@@ -8,16 +8,16 @@ This is where we'll be putting work for the fall 2021 quarter !!
 
 _got more than 0 on data visualization assessment_
 
-1. list item
-1. **list item**
-1. *list item*
-  1. __list item__
-  2. **_list item_**
+1. Microsoft Excel
+1. **Tableau Public**
+1. *Sublime text editor*
+|  1. __list item__
+|  2. **_list item_**
 
-First Header | Second Header
+Grade | Distribution
 -------------| -------------
-attendance | participation
-assignments | final project
+(20%) attendance | (20%) participation
+50% assignments | 30% final project
 
 [sample link](https://nytimes.com)
 
@@ -26,3 +26,19 @@ assignments | final project
 * subscribe to The Why Axis
 
 # class is on Thursday in Week 4
+
+## Final project details:
+* a story btwn 1k and 2k words based on a dataset
+| * with at least 2 data visualizations
+* due 9am Nov 23
+* a fellow student will interview you abt the piece during the second-to-last class
+* should answer an interesting question using data
+* _nut graf_ or main finding of a story should _be something you would not have been able to discover or report without the skills learned in this clas_
+* **not** a good fit: all the stats referenced are straight out of a press release
+* **good** fit: creating or analyzing unique dataset
+
+
+Final Project | Grade Breakdown
+------------ | -------------
+15% written story | 5% data visualizations
+3% role as interviewer | 7% role as interviewee
