@@ -2,4 +2,4 @@ I noticed that a lot of the examples from last week's assignment had grouped the
 
 I made a DataWrapper chart in that vein, and the interactive version here (https://datawrapper.dwcdn.net/m84LI/1/) shows exact values when hovered.
 
-I'll also upload a PNG copy in my repository.
+A static PNG copy is available [here](https://github.com/juliamuellerthewriter/datavisualization-fall2021/blob/main/m84LI-europe-dominates-world-market-as-main-importer-of-cocoa-beans.png).
